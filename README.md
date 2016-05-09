@@ -10,3 +10,7 @@ Algorithm is based on the paper:
 Lui, W. L. D., Tang, T. J. J., Drummond, T., and Li, W. H. (2012). Robust egomotion estimation using icp
 in inverse depth coordinates. In Robotics and Automation (ICRA), 2012 IEEE International Conference on,
 pages 1671–1678. IEEE.
+
+## Results
+
+![Egomotion estimation](https://raw.githubusercontent.com/ldelange/egomotion-estimation/master/egomotion.png)
