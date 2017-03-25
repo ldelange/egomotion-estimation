@@ -15,6 +15,6 @@ pages 1671–1678. IEEE.
 
 ![Egomotion estimation](https://raw.githubusercontent.com/ldelange/egomotion-estimation/master/egomotion.png)
 
-Combination of egomotion and plane detection.
+Combination of egomotion and dominant plane segmentation.
 
 ![Egomotion and plane detection](https://raw.githubusercontent.com/ldelange/egomotion-estimation/master/egomotion_and_plane_detection.png)
