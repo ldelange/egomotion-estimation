@@ -17,4 +17,4 @@ pages 1671–1678. IEEE.
 
 Combination of egomotion and plane detection.
 
-![Egomotion and plane detection](https://raw.githubusercontent.com/ldelange/egomotion-estimation/master/egmotion and plane detection.png)
+![Egomotion and plane detection](https://raw.githubusercontent.com/ldelange/egomotion-estimation/master/egomotion_and_plane detection.png)
